@@ -23,7 +23,7 @@ This platform can be used to shorten any url by hashing the url and can be used 
 
 ### Clone the Repository
 ```sh
- git clone (https://bramha-kl-mini-link-management-app.vercel.app/signup)
+ git clone 
  cd frontend
 ```
 
@@ -70,3 +70,19 @@ JWT_SECRET=<your-jwt-secret>
 - 📱 **Responsive Design**: Works on both desktop and mobile devices.
 -  📃  **Pagination and Aggregation Pipelines:** Implemented efficient data pagination and aggregation pipelines to handle large sets of data and provide seamless user experience with fast, organized responses.
 
+## 🧠 What I Learned
+
+- Implementing secure authentication using HTTPS cookies.
+- Building modular components using Higher-Order Components (HOC) in React.
+- Efficient state management using React Context API.
+- Enhancing user experience with toast notifications for error and success handling.
+- Designing a mobile-responsive interface for better accessibility.
+- Following REST API best practices for structured and scalable backend development.
+- Optimizing data handling with pagination and aggregation pipelines.
+
+## 🚀 Getting Started
+
+### Clone the Repository:
+
+```bash
+git clone https://github.com/Shravani-9/Mini-link-Management.git
