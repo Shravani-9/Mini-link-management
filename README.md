@@ -14,7 +14,7 @@ This platform can be used to shorten any url by hashing the url and can be used 
 - **Backend**: Render/Heroku
 
 ## 🚀 Live Demo
-🔗 [Live Demo](https://bramha-kl-mini-link-management-app.vercel.app/signup)
+🔗 [Live Demo](https://mini-link-management.vercel.app/)
 
 ## 🛠 Setup Instructions
 ### Prerequisites:
